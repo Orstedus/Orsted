@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@500&family=Reem+Kufi+Fun:wght@500&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.App {
+    display: flex;
+    flex-direction: column;
+}
+
+.header {
+    background-color: rgb(64, 58, 75);
+    width: max-width;
+    height: 70%;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+
+    .avatar{
+        margin-top: 15%;
+        width: 150px;
+        height: 150px;
+        border-radius: 100px;
+        border: 4px white solid;
+    }
+
+    .nickName {
+        color: white;
+        font-size: 35px;
+    }
+
+    .description {
+        color: rgb(167, 167, 167);
+        font-size: 15px;
+    }
+
+    .comp {
+        width: 30px;
+        height: 30px;
+        display: inline-block;
+        margin: 7.5px;
+        margin-bottom: 15%;
+        cursor: pointer;
+    }
+}
+
+.Body {
+    text-align: center;
+    background-color: rgb(32, 29, 36);
+    padding: 15px;
+    height: 100%;
+    flex: 1 1 auto;
+    .themeTitle {
+        color: white;
+        font-size: 25px;
+    }
+    .templateBox {
+        .template{
+            border: 3px white solid;
+            border-radius: 15px;
+            text-align: center;
+            display: inline-block;
+            padding: 10px;
+            margin: 15px;
+            .contImg {
+                width: 240px;
+                height: 135px;
+                border-radius: 10px;
+            }
+            .title {
+                font-size: 20px;
+                color: white;
+                margin: 2.5px;
+            }
+            .desc {
+                font-size: 12.5px;
+                color: white;
+                margin: 2.5px;
+            }
+            button{
+                color: white;
+                border:2px solid white;
+                background-color: transparent;
+                border-radius: 10px;
+                padding: 5px;
+                margin: 2.5px;
+                cursor: pointer;
+            }
+    }
+    
+    }
+
+}
+
+.Footer {
+    height: 28px;
+    width: max-width;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(17, 17, 17);
+    padding: 20px;
+    p{
+        font-size: 10px;
+        color: rgb(168, 168, 168);
+    }
+}
