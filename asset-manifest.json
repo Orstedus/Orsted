@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/orsted/static/css/main.3e26b151.css",
+    "main.js": "/orsted/static/js/main.0fbe9bdf.js",
+    "static/media/orstedSite.png": "/orsted/static/media/orstedSite.bc6aacf58120c6168c23.png",
+    "static/media/popoSite.png": "/orsted/static/media/popoSite.9ad473dd4764fac6cece.png",
+    "static/media/tipSite.png": "/orsted/static/media/tipSite.a39f4dab3f76e3065174.png",
+    "static/media/calcSite.png": "/orsted/static/media/calcSite.4837cf7486b76f273f0b.png",
+    "index.html": "/orsted/index.html",
+    "main.3e26b151.css.map": "/orsted/static/css/main.3e26b151.css.map",
+    "main.0fbe9bdf.js.map": "/orsted/static/js/main.0fbe9bdf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3e26b151.css",
+    "static/js/main.0fbe9bdf.js"
+  ]
+}
