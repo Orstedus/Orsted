@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "/orsted/static/css/main.40328076.css",
-    "main.js": "/orsted/static/js/main.d46cd185.js",
+    "main.css": "/orsted/static/css/main.64490f91.css",
+    "main.js": "/orsted/static/js/main.23c4a549.js",
     "static/media/ava.gif": "/orsted/static/media/ava.3e00c1a11d1b488280dc.gif",
-    "static/media/orstedSite.png": "/orsted/static/media/orstedSite.bc6aacf58120c6168c23.png",
+    "static/media/bankTemplate.png": "/orsted/static/media/bankTemplate.a21d883cf2933ca6c541.png",
     "static/media/popoSite.png": "/orsted/static/media/popoSite.9ad473dd4764fac6cece.png",
     "static/media/tipSite.png": "/orsted/static/media/tipSite.a39f4dab3f76e3065174.png",
     "static/media/steam.png": "/orsted/static/media/steam.7cfaecb9b099bc411780.png",
@@ -11,11 +11,11 @@
     "static/media/telega.png": "/orsted/static/media/telega.bd0b088db282446f0027.png",
     "static/media/disik.png": "/orsted/static/media/disik.db982b4072a7dc4d3df9.png",
     "index.html": "/orsted/index.html",
-    "main.40328076.css.map": "/orsted/static/css/main.40328076.css.map",
-    "main.d46cd185.js.map": "/orsted/static/js/main.d46cd185.js.map"
+    "main.64490f91.css.map": "/orsted/static/css/main.64490f91.css.map",
+    "main.23c4a549.js.map": "/orsted/static/js/main.23c4a549.js.map"
   },
   "entrypoints": [
-    "static/css/main.40328076.css",
-    "static/js/main.d46cd185.js"
+    "static/css/main.64490f91.css",
+    "static/js/main.23c4a549.js"
   ]
 }
